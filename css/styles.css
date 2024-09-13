@@ -102,8 +102,6 @@ button {
   background-color: #404bbf;
 }
 
-/*-----Main Content-----*/
-
 .benefits-list-title {
   font-weight: 500;
   font-size: 20px;
@@ -135,6 +133,10 @@ button {
   color: #2e2f42;
 }
 
+.team-list {
+  background-color: #ffffff;
+}
+
 .team-list-name {
   font-weight: 500;
   font-size: 20px;
@@ -142,7 +144,6 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 
 .team-list-text {
@@ -156,7 +157,7 @@ button {
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
-  letter-spacing: 0.02em
+  letter-spacing: 0.02em;
   line-height: 1.2;
   color: #2e2f42;
 }
