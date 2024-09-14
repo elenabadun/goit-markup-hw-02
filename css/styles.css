@@ -85,7 +85,7 @@ button {
   color: #ffffff;
 }
 
-.order-service-button {
+.button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -94,8 +94,8 @@ button {
   background-color: #4d5ae5;
 }
 
-.order-service-button:hover,
-.order-service-button {
+.button:hover,
+.button {
   background-color: #404bbf;
 }
 
